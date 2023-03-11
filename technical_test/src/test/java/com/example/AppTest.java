@@ -4,16 +4,12 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
+    App test = new App();
+    
     @Test
-    public void shouldAnswerWithTrue()
+    public void moreThanThreshold()
     {
         assertTrue( true );
     }
