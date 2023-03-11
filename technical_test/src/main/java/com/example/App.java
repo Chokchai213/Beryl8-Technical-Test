@@ -14,10 +14,14 @@ public class App {
     }
 
     public void keyboardInput() {
+        try{
         Scanner keyboardScan = new Scanner(System.in);
         System.out.println("Enter Integer : ");
         this.userInput = keyboardScan.nextInt();
         keyboardScan.close();
+        }catch(Exception e){
+            System.out.println(e);
+        }
     }
 
     public void buildTree() {
