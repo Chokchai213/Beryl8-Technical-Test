@@ -1,6 +1,7 @@
 # Beryl8-Technical-Test
 
-All these codes are dedicated to Beryl8 Technical Interview, this repository consists of technical_test directory inside consists of project files and solution folder which consists of
+All these codes are dedicated to Beryl8 Technical Interview, this repository consists of technical_test directory inside consists of project files, 
+solution directory folder which consists of
 * App.java (main class)
 * AppTest.java (test class)
 
