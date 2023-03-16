@@ -5,6 +5,12 @@ solution directory folder which consists of
 * App.java (main class)
 * AppTest.java (test class)
 
+# Interviewer Comment
+Not the solution wanted by this problem
+* Sloppy OOP structure needs a restructure.
+* Hard-coded input not ideal.
+* Test is wrong we need to test the output string of the program with desired case.
+
 # Code Explaination
 
 ![Beryl81024_1](https://user-images.githubusercontent.com/77828500/224506988-017822b9-d6c7-48fd-ba29-282beda13c55.jpg)
