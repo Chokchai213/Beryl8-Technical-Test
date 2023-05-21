@@ -13,7 +13,6 @@ Not the solution wanted by this problem
 
 # Code Explaination
 
-![Beryl81024_1](https://user-images.githubusercontent.com/77828500/224506988-017822b9-d6c7-48fd-ba29-282beda13c55.jpg)
 ![Beryl81024_2](https://user-images.githubusercontent.com/77828500/224506989-84d809c1-f67f-4617-b59a-b7aa35053c3d.jpg)
 ![Beryl81024_3](https://user-images.githubusercontent.com/77828500/224506991-62f88065-bd97-4ba7-bee8-e6c2471a573d.jpg)
 ![Beryl81024_4](https://user-images.githubusercontent.com/77828500/224506995-b6915945-790d-43c4-835f-b232f805da22.jpg)
